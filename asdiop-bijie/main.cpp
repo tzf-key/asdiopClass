@@ -5,6 +5,7 @@ int myFunc(int s1,int s2,int s3,int s4)
 {
 	int e = 0;
 	e = s1 + s2 + s3 + s4;
+	printf("11\n")
 	return e;
 }
 
